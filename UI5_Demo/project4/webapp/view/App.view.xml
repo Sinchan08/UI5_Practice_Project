@@ -1,0 +1,10 @@
+<mvc:View
+    controllerName="ui5.project4.controller.App"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+
+    <Button text="Sample Button"
+           press="onClickControl" />
+    
+    
+</mvc:View>

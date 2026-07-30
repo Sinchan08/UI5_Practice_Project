@@ -1,0 +1,8 @@
+<mvc:View
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+
+    <Button text="Sample Button" />
+    <Text text="Hello World!"/>
+    
+</mvc:View>

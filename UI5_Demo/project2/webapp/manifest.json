@@ -1,0 +1,12 @@
+{
+    "version": "1.19.0",
+
+    "sap.app":{
+        "id":"ui5.project2",
+        "type":"application",
+        "title":"project2",
+        "applicationVersion":{
+            "version":"1.0.0"
+        }
+    }
+}

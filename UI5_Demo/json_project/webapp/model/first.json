@@ -1,0 +1,27 @@
+{
+"CountSweets": "2",
+            "SweetsSupplier" :[
+                {
+                    "ID" :1,
+                    "Name": "Kanti Sweets",
+                    "Address" :{
+                        "Street" : "Hebbal Main Road",
+                        "City" : "Mysore",
+                        "State" :"Karnataka",
+                        "ZipCode": "575007",
+                        "Country":"INDIA"
+                    }
+                },
+                {
+                    "ID" :2,
+                    "Name": "Ayengar Sweets",
+                    "Address" :{
+                        "Street" : "Hebbal Main Road",
+                        "City" : "Mysore",
+                        "State" :"Karnataka",
+                        "ZipCode": "575008",
+                        "Country":"INDIA"
+                    }
+                }
+            ]
+        }

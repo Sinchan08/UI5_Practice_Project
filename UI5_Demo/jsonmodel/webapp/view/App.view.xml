@@ -1,0 +1,12 @@
+<mvc:View
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns="sap.m"
+  controllerName="ui5.jsonmodel.controller.App">
+
+  <Button text="{i18n>pressMeText}"/>
+
+  <Input value="{/employee/name}" />
+
+  <Input value="{/employee/city}"/>
+
+</mvc:View>

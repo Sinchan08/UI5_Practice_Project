@@ -1,0 +1,7 @@
+{
+    "version": "1.19.0",
+    "sap.app":{
+        "id": "first_project"
+    }
+
+}
